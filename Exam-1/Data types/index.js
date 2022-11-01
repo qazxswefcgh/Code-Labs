@@ -1,6 +1,0 @@
--Number
--String
--Boolean
--Object
--Array
--NaN
